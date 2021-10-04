@@ -7,7 +7,7 @@
 - testable Kotlin code (unit test) :robot:
 - Clean Architecture (data, domain, presentation layers)
 - Presentation layer built based on Unidirectional data flow (UDF) and single entry points
-- Latest AGP 7+ ( be sure to setup Jvm 11) :warning:
+- Latest AGP 7.0.2 ( be sure to setup Jvm 11) :warning:
 - Dagger Hilt (after long time of using dagger , i guess Hilt come with many easy way to create our dependency graph :partying_face:)
 - using Unit, Instrumentation and Integration tests
 
